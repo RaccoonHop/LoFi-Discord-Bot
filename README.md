@@ -1,5 +1,5 @@
 # Lofi-Radio-Music-Bot
-It is a discord bot bot which can play lofi song in different language 24/7. It has premium system and cool embed looks with buttons. It can play youtube songs, playlists. This bot code was made by Supreme#2401. It uses djs V12
+It is a discord bot bot which can play lofi song in different language 24/7. It has premium system and cool embed looks with buttons. It can play youtube songs, playlists. This bot code was made by ＣｈｉｌｌｅｄＣｏｗ#3958. It uses djs V12
 
 
 # Some Pictures of this bot:
@@ -25,7 +25,7 @@ It is a discord bot bot which can play lofi song in different language 24/7. It 
 
 - Step 1
 
-If you are replit user then [Click Here](https://repl.it/github/diwasatreya/Lofi-Radio-Music-Bot)
+If you are replit user then [Click Here](https://github.com/RaccoonHop/LoFi-Discord-Bot)
 
 - Step 2 
 
@@ -42,8 +42,7 @@ Change all the emojis id in `emoji.json` file
 Run the repo and it takes time to install package then bot will be online
 
 # Developer
-- This bot was made by **Supreme#2401** 
-
-![Supreme](https://media.discordapp.net/attachments/911627187734585413/937645307515256872/unknown.png?width=540&height=434)
+- This bot was made by **ＣｈｉｌｌｅｄＣｏｗ#3958** 
+(https://media.discordapp.net/attachments/911627187734585413/937645307515256872/unknown.png?width=540&height=434)
 
 
