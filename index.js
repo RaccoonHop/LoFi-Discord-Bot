@@ -63,7 +63,7 @@ client.on("message", async message => {
         .setDescription(`Hey **${message.author.username},** It's me ${client.user.username}. Here are some my config: 
         ${dot}Bot Prefix: \`${prefix}\`
         ${inv}Invite Link: [Click Here](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot%20applications.commands)
-        ${dev} **Developer**[Supreme#2401](https://discord.gg/gU7XAxTpX5)
+        ${dev} **Developer**[ＣｈｉｌｌｅｄＣｏｗ#3958](https://discord.gg/)
         `)
         .setColor("#EFB9BE")
         .setFooter(`Thanks for using me`)
@@ -181,7 +181,7 @@ client.on("ready", () => {
 
 //  For Watching Status
 // client.on("ready", () => {
-// client.user.setActivity(`Chilling with owner`, { type:         "STREAMING",
+// client.user.setActivity(`Chilling`, { type:         "STREAMING",
 // url: "https://www.twitch.tv/nocopyrightsounds"})
 // console.log(`Successfully logined as ${client.user.tag}});
 
